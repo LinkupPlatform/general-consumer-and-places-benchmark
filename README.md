@@ -28,6 +28,20 @@ Linkup's average was higher on **112 of 112**.
 
 Linkup's average was higher on **87 of 88**.
 
+## Queries
+
+| Kind | What they ask |
+|---|---|
+| Hotels | Fees, parking, cancellation, or house rules at a named hotel |
+| Restaurants | Hours, a menu price, or a house rule at a named restaurant |
+| Shopping | A product's specs, price, warranty, or carrier compatibility |
+| Sports | Entry rules, tickets, or access at a stadium, arena, or event |
+| Home services | Price, coverage, or terms from a service company |
+| Finance | A rate, fee, or eligibility rule |
+| Local business | A policy or practical detail at a named local venue |
+| News | A reported fact |
+| General search | A practical fact that is not one of the above |
+
 ## Repo layout
 
 ```
